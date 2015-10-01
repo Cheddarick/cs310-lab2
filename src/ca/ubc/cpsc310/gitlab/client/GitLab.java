@@ -45,7 +45,7 @@ public class GitLab implements EntryPoint {
 	 */
 	public void onModuleLoad() {
 	
-
+		private String conflict = "This is a test conflict";
 		
 	}
 	
